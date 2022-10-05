@@ -1,0 +1,32 @@
+body {
+background-color: rgb(181, 240, 205);
+font-size: 18px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+width: 1024px;
+margin-left: 30px;
+}
+p {
+    text-align: justify;
+    line-height: 35px;
+}
+h1 {
+    font-size: 28px;
+    color: rgb(245, 153, 191);
+}
+h2 {
+    font-size: 22px;
+    color: cornflowerblue;
+}
+span {
+    text-decoration: underline;
+    color: blueviolet;
+}
+nav {
+    background-color: darkseagreen;
+    padding: 15px;
+}
+a {
+    color: bisque;
+    margin: 75px;
+    text-decoration: none;
+}
